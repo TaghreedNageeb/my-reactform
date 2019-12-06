@@ -1,0 +1,71 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(1, 46, 48);
+    text-align: center;
+    pad: 10px;
+    color: white;
+}
+
+.mytable{
+    text-align: center;
+    
+}
+
+.child{
+    margin: 0px auto;
+    padding: 10px;
+    
+}
+
+.child th{
+    padding: 10px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+}
+
+.child td{
+    border: 1px solid #fff;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#Form{
+    margin: 54px;
+}
+
+#Form input{
+    height: 30px;
+    width: 200px;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 5px;
+    color: rgb(1, 46, 48);
+    font-weight: bold;
+}
+
+#Form button{
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 5px;
+    color: rgb(1, 46, 48);
+    font-weight: bold;
+    background: rgb(199, 197, 197);
+}
+
+.mybtn{
+    height: 30px;
+    width: 70px;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 5px;
+    color: rgb(1, 46, 48);
+    font-weight: bold;
+    background: rgb(199, 197, 197);
+}
